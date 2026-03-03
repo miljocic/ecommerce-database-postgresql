@@ -1,4 +1,4 @@
-# E-Commerce Database (UI Project)
+# E-Commerce Database
 
 A PostgreSQL relational database for an e-commerce platform, covering orders, products, pricing, delivery, warehouses, discounts, and reviews. Includes SQL queries, views, stored procedures, functions, transactions, and index optimization.
 
